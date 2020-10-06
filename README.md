@@ -28,6 +28,8 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
+![Twitter Follow](https://img.shields.io/twitter/follow/scottydocs?style=social)
 
 
 
