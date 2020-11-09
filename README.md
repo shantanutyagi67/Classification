@@ -26,7 +26,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/shantanu-tyagi-166322175/]
+![LinkedIn](https://www.linkedin.com/in/shantanu-tyagi-166322175/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Classification/README.md)
 
 
